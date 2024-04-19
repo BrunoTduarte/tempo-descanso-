@@ -2,7 +2,7 @@
 
 # Fokus
 
-Olá, aventureiro(a) digital! Você acabou de embarcar na jornada de descoberta do nosso projeto incrível desenvolvido ao longo do curso "JavaScript: explorando a manipulação de elementos e da localStorage". Agarre-se à sua cadeira, pois vamos desbravar os mares do código!
+Olá, Você acabou de embarcar na jornada de descoberta do meu projeto "JavaScript: explorando a manipulação de elementos e da localStorage". 
 
 ## Uma pitada sobre o Projeto
 
@@ -31,14 +31,10 @@ Aqui é onde a mágica acontece! Mergulhamos profundamente nas águas de:
 
 Ahoy, marujo(a) do código! Está pronto(a) para içar as velas e navegar pelas águas do nosso projeto? Segure firme o leme, pois vamos guiar você através dos passos para configurar e executar o projeto em seu ambiente local. Não se preocupe, não há monstros marinhos à vista, apenas um oceano de aprendizado esperando por você!
 
-### Abastecendo o Navio
-
-Certifique-se de que você tem um navegador web moderno instalado. Recomendamos o uso do Google Chrome ou Mozilla Firefox.
-
 #### Navegando até o Projeto
 
 Abra a pasta onde o projeto foi baixado ou extraído.
-Você encontrará um arquivo chamado index.html. Este é o nosso mapa do tesouro!
+Você encontrará um arquivo chamado index.html.
 
 
 #### Içando as Velas
@@ -55,16 +51,5 @@ Você encontrará três arquivos principais que contêm o código que faz a magi
 - script.js: Um script adicional que pode conter outras funcionalidades JavaScript do projeto.
 - styles.css: Onde a beleza do projeto é criada, com todos os estilos CSS que fazem nossa aplicação brilhar.
 
-#### Ajustando as Velas:
-
-Sinta-se livre para explorar, modificar e experimentar o código. O mar é vasto e cheio de descobertas!
-
-#### Mensagens na Garrafa:
-
-Se você encontrar algum bug ou tiver sugestões de melhorias, não hesite em compartilhar seus feedbacks.
-
-Agora com o mapa em mãos e as instruções seguras, você está pronto(a) para desbravar as águas do nosso projeto! 
-
-Que os ventos do aprendizado soprem sempre a seu favor, e que você encontre tesouros de conhecimento em cada linha de código. Boa viagem, e até a próxima aventura!
 
 ![](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)
