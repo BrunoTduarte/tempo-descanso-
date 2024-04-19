@@ -23,13 +23,10 @@ O nosso querido projeto é uma aplicação web simples e interativa que permite 
 
 Aqui é onde a mágica acontece! Mergulhamos profundamente nas águas de:
 
-- Manipulação da DOM: Aprendemos a manipular a estrutura de nossa página com JavaScript, criando, removendo e alterando elementos HTML.
-- Eventos JavaScript: Exploramos o poder dos eventos JavaScript para criar uma interface interativa e responsiva.
-- LocalStorage: Ensaiamos a dança de armazenar e recuperar dados usando a LocalStorage, mantendo nossas tarefas seguras e acessíveis mesmo após o navegador ser fechado.
+- Manipulação da DOM:
+- Eventos JavaScript: 
+- LocalStorage: 
 
-## Como Abrir e Rodar o Projeto: Um Mapa do Tesouro para Navegar no Código
-
-Ahoy, marujo(a) do código! Está pronto(a) para içar as velas e navegar pelas águas do nosso projeto? Segure firme o leme, pois vamos guiar você através dos passos para configurar e executar o projeto em seu ambiente local. Não se preocupe, não há monstros marinhos à vista, apenas um oceano de aprendizado esperando por você!
 
 #### Navegando até o Projeto
 
