@@ -5,6 +5,7 @@ const formAdicionarTarefa = document.querySelector('.app__form-add-task')
 const textarea = document.querySelector('.app__form-textarea')
 const ulTarefas = document.querySelector('.app__section-task-list')
 const paragrafoDescricaoTarefa = document.querySelector('.app__section-active-task-description')
+const btnCancelaTarefa = document.querySelector('.app__form-footer__button--cancel')
 
 const btnRemoverConcluidas = document.querySelector('#btn-remover-concluidas')
 const btnRemoverTodas = document.querySelector('#btn-remover-todas')
@@ -82,6 +83,13 @@ function criarElementoTarefa(tarefa) {
 
     return li
 }   
+
+btnCancelaTarefa.addEventListener('click', () => {
+    textarea.value = '';
+    formAdicionarTarefa.classList.toggle('hidden')
+
+
+})
 
 btnAdicionarTarefa.addEventListener('click', () => {
     formAdicionarTarefa.classList.toggle('hidden')
