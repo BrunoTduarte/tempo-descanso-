@@ -3,6 +3,8 @@
 # Fokus
 
 Olá, Você acabou de embarcar na jornada de descoberta do meu projeto "JavaScript: explorando a manipulação de elementos e da localStorage". 
+![Captura de tela 2024-07-26 194334](https://github.com/user-attachments/assets/d5c8f84b-298f-4f6d-a216-e81b3fa1e247)
+
 
 ## Uma pitada sobre o Projeto
 
